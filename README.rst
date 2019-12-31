@@ -1,4 +1,4 @@
-.. -*- mode: rst; coding: utf-8; -*-
+.. -*- mode: rst; coding: GB2312; -*-
 
 =================
 mlab
